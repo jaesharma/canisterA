@@ -5,6 +5,10 @@
     "canister_a": {
       "type": "motoko",
       "main": "src/main.mo"
+    },
+    "canister_b": {
+      "type": "assets",
+      "main": "src/fe"
     }
   },
   "defaults": {
