@@ -7,7 +7,7 @@
       "main": "src/main.mo"
     },
     "canister_b": {
-      "type": "assets",
+      "type": "motoko",
       "main": "src/fe"
     }
   },
